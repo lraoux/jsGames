@@ -1,7 +1,3 @@
-
-
-
-<!DOCTYPE html>
 <html lang="en" class="">
   <body>
   <p>Games I made while at App Academy...</p> <br>
